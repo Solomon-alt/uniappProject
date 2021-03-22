@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "input-and-silde": "/components/top/Header",
+    "serve": "/components/home/Serve",
+    "seckill": "/components/home/Seckill",
+    "recommended": "/components/home/recommended",
+    "display": "/components/home/display",
+    "foot": "/components/home/foot"
+  }
+}

@@ -1,0 +1,31 @@
+
+.box.data-v-f787bebc {
+	height: 374rpx;
+	background-color: #C82519;
+}
+.container.data-v-f787bebc {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 88rpx;
+}
+.icon.data-v-f787bebc {
+	width: 80rpx;
+	line-height: 108rpx;
+}
+.input.data-v-f787bebc {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	margin-top: 5rpx;
+}
+.portrait.data-v-f787bebc {
+	width: 90rpx;
+	line-height: 108rpx;
+}
+.silde.data-v-f787bebc {
+	width: 95%;
+	height: 280rpx;
+	margin: 40rpx auto;
+}
+

@@ -1,0 +1,59 @@
+
+.price.data-v-39cbb4e8 {
+	color: red;
+	font-size: 45rpx;
+	margin: 20rpx;
+}
+.pricing.data-v-39cbb4e8 {
+	font-size: 26rpx;
+	margin:0 0 30rpx 20rpx;
+	text-decoration: line-through;
+	color: #666666;
+}
+.way.data-v-39cbb4e8{
+	color: white;
+	background-color: red;
+	font-size: 26rpx;
+	border-radius: 6rpx;
+	margin-left: 20rpx;
+}
+.describe.data-v-39cbb4e8{
+	font-weight: 700;
+	line-height: 45rpx;
+}
+.Introduction1.data-v-39cbb4e8,
+.Introduction.data-v-39cbb4e8,
+.recommended.data-v-39cbb4e8{
+	color: #333333;
+	font-size: 24rpx;
+	line-height: 36rpx;
+}
+.author2.data-v-39cbb4e8,
+.author1.data-v-39cbb4e8{
+	margin: 20rpx 0;
+}
+image.data-v-39cbb4e8{
+	height: 4500rpx;
+	margin-bottom: 120rpx;
+	width: 100%;
+}
+.foot.data-v-39cbb4e8{
+	position: fixed;
+	bottom: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 120rpx;
+	width: 100%;
+	background-color: white;
+}
+.icon.data-v-39cbb4e8{
+	width: ;
+	text-align: center;
+	margin: 0 20rpx;
+}
+
+

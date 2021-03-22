@@ -1,0 +1,16 @@
+{
+	"name": "unis",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"egg-cors": "^2.2.3",
+		"uview-ui": "^1.8.3"
+	}
+}
